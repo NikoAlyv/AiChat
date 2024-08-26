@@ -7,6 +7,10 @@ Key Feature:
 Typing Effect: Realistic message typing with an option to stop and save the partially typed message.
 It’s been a great learning experience combining AI with app development. Check it out!
 
+![Chat4](https://github.com/user-attachments/assets/64f8c8df-bb19-43de-bb60-4f2bf202c0a3)
+![Chat3](https://github.com/user-attachments/assets/e4ee4967-95e3-42c2-a339-5ae5b655ebef)
+![Chat2](https://github.com/user-attachments/assets/32f837ee-babf-4c33-9aa9-5736c15d269f)
+![Chat1](https://github.com/user-attachments/assets/f6e53567-d6ac-49f9-8281-d78040eeb72c)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
