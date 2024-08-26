@@ -1,3 +1,13 @@
+🚀 Excited to Share My Latest App Update! 🚀
+
+I’ve just integrated AI into my React Native app ! 🎉
+
+Key Feature:
+
+Typing Effect: Realistic message typing with an option to stop and save the partially typed message.
+It’s been a great learning experience combining AI with app development. Check it out!
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
